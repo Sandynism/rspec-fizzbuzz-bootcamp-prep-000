@@ -1,4 +1,4 @@
 def fizzbuzz()
-  if int % 3 == true
+  if ().fixnum % 3 == true
   puts "Fizz"
 end
