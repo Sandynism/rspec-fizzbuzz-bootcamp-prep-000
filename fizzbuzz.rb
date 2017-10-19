@@ -1,4 +1,4 @@
-def fizzbuzz()
+def fizzbuzz
   if 
   puts "Fizz"
 end
