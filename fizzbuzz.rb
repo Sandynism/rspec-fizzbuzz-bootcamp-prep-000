@@ -1,4 +1,4 @@
 def fizzbuzz
-  if 
+  if
   puts "Fizz"
 end
