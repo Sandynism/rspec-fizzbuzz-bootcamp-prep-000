@@ -1,4 +1,5 @@
-def fizzbuzz
-  if ().fixnum % 3 == true
+def fizzbuzz()
+  x = x.fixnum
+  if x % 3 == true
   puts "Fizz"
 end
