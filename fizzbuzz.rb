@@ -1,5 +1,5 @@
 def fizzbuzz(num)
-  num.to.int
+  num.to_i
   if
   puts "Fizz"
 end
