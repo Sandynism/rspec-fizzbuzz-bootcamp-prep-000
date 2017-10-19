@@ -1,4 +1,4 @@
-def fizzbuzz
-  if fizz_3 = fizzbuzz(3)
+def fizzbuzz(int)
+  if int % 3 == 0
     print "Fizz"
 end
